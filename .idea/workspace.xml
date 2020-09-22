@@ -7,6 +7,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hiy6E8gm0NcfMwy9K1eY1gWZne" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -28,6 +31,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600508029607</updated>
       <workItem from="1600508030655" duration="542000" />
+      <workItem from="1600672999419" duration="52000" />
     </task>
     <servers />
   </component>
@@ -35,9 +39,9 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1600508569588">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1600673049191">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1600508569588" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1600673049191" />
   </component>
 </project>
